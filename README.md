@@ -3,4 +3,4 @@ En este proyecto, lo que intentaré hacer será un programa para ayudar a un mé
 En esta segunda entrega, hice el diagrama de clases para poder desglosar el proyecto y poder explicar el programa de una forma más sencilla.
 # Instrucciones
 Lo que se necesita hacer para poder correr el código es descargar todos los archivhos adjuntos, debido a que en la función principar se mandan llamar todos y cada uno de estos archivos por separado y si no descargas todos no va a funcionar. Puedes correrlo desde la terminal, aunque yo utilizo Visual Studio Code y también funciona.
-Descargar esta carpeta y correrlo en la terminal [Proyecto Cpp.zip](https://github.com/pacoa1/Proyecto-Cpp-A01706242/files/10035987/Proyecto.Cpp.zip)
+Descargar esta carpeta y correrlo en la terminal[Proyecto Cpp.zip](https://github.com/pacoa1/Proyecto-Cpp-A01706242/files/10043144/Proyecto.Cpp.zip)
